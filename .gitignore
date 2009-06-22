@@ -1,0 +1,9 @@
+*.resharper*
+_ReSharper*
+*.suo
+*.cache
+
+Documentary.Tests/bin
+Documentary.Tests/obj
+Documentary/bin
+Documentary/obj
